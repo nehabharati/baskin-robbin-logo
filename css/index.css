@@ -56,6 +56,11 @@ body {
   width: 20px;
   top: 80px;
   left: 110px;
+  -moz-transform: skewX(5deg);
+  -webkit-transform: skewX(5deg);
+  -o-transform: skewX(5deg);
+  -ms-transform: skewX(5deg);
+  transform: skewX(5deg);
   transform: skewX(5deg); }
 
 .curve {
@@ -65,6 +70,11 @@ body {
   border-left: solid 20px #de5ba7;
   border-right: solid 10px #de5ba7;
   border-radius: 90%/100px 100px 0 0;
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
   transform: rotate(90deg);
   position: absolute; }
 
@@ -85,6 +95,11 @@ body {
   width: 15px;
   top: 80px;
   left: 215px;
+  -moz-transform: skewX(-5deg);
+  -webkit-transform: skewX(-5deg);
+  -o-transform: skewX(-5deg);
+  -ms-transform: skewX(-5deg);
+  transform: skewX(-5deg);
   transform: skewX(-5deg); }
 
 .r1 {
@@ -94,6 +109,12 @@ body {
   border-left: solid 20px #0360b0;
   border-right: solid 10px #0360b0;
   border-radius: 90%/100px 100px 0 0;
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  transform: rotate(90deg);
   transform: rotate(90deg);
   position: absolute;
   top: 88px;
@@ -110,6 +131,11 @@ body {
   top: 147px;
   left: 256px;
   border-radius: 10%;
+  -moz-transform: skewX(25deg);
+  -webkit-transform: skewX(25deg);
+  -o-transform: skewX(25deg);
+  -ms-transform: skewX(25deg);
+  transform: skewX(25deg);
   transform: skewX(25deg); }
 
 .logo {
@@ -123,6 +149,11 @@ body {
   position: absolute;
   top: 210px;
   left: 115px;
+  -moz-transform: skewX(5deg);
+  -webkit-transform: skewX(5deg);
+  -o-transform: skewX(5deg);
+  -ms-transform: skewX(5deg);
+  transform: skewX(5deg);
   transform: skewX(5deg); }
 
 .logo1 {
@@ -155,7 +186,7 @@ body {
   background-color: #0360b0;
   border-radius: 50%;
   top: 224px;
-  left: 151px; }
+  left: 154px; }
 
 .name-a-a1 {
   position: absolute;
@@ -172,9 +203,13 @@ body {
   border-left: 1px solid transparent;
   height: 0;
   width: 10px;
+  -moz-transform: skewX(-5deg);
+  -webkit-transform: skewX(-5deg);
+  -o-transform: skewX(-5deg);
+  -ms-transform: skewX(-5deg);
   transform: skewX(-5deg);
   top: 222px;
-  left: 175px; }
+  left: 179px; }
 
 .logo3 {
   width: 20px;
@@ -186,14 +221,24 @@ body {
   top: 230px; }
 
 .name-s {
+  -moz-transform: rotate(80deg);
+  -webkit-transform: rotate(80deg);
+  -o-transform: rotate(80deg);
+  -ms-transform: rotate(80deg);
   transform: rotate(80deg);
-  top: 240px;
-  left: 179px; }
+  top: 235px;
+  left: 183px; }
 
 .name-s1 {
+  -moz-transform: rotate(-100deg);
+  -webkit-transform: rotate(-100deg);
+  -o-transform: rotate(-100deg);
+  -ms-transform: rotate(-100deg);
   transform: rotate(-100deg);
-  top: 227px;
-  left: 185px; }
+  transform: rotate(-100deg);
+  transform: rotate(-100deg);
+  top: 222px;
+  left: 189px; }
 
 .name-k {
   width: 35px;
@@ -201,9 +246,13 @@ body {
   border-top: 10px solid #0360b0;
   border-left: 20px solid transparent;
   border-right: 0px solid transparent;
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
   top: 230px;
-  left: 190px; }
+  left: 195px; }
 
 .name-k1 {
   width: 20px;
@@ -212,19 +261,27 @@ body {
   border-left: 0px solid transparent;
   border-right: 20px solid transparent;
   top: 230px;
-  left: 205px;
+  left: 210px;
+  -moz-transform: rotate(130deg);
+  -webkit-transform: rotate(130deg);
+  -o-transform: rotate(130deg);
+  -ms-transform: rotate(130deg);
   transform: rotate(130deg); }
 
 .name-k2 {
   border-top: 20px solid #0360b0;
   top: 230px;
   left: 230px;
+  -moz-transform: rotate(-50deg);
+  -webkit-transform: rotate(-50deg);
+  -o-transform: rotate(-50deg);
+  -ms-transform: rotate(-50deg);
   transform: rotate(-50deg); }
 
 .name-i {
   border-top: 36px solid #0360b0;
   top: 222px;
-  left: 252px; }
+  left: 248px; }
 
 .name-i1 {
   width: 13px;
@@ -233,17 +290,21 @@ body {
   background-color: #0360b0;
   position: absolute;
   top: 206px;
-  left: 251px; }
+  left: 247px; }
 
 .name-n {
   position: absolute;
   border-top: 10px solid #0360b0;
   border-left: 0px solid transparent;
   border-right: 20px solid transparent;
+  -moz-transform: rotate(-85deg);
+  -webkit-transform: rotate(-85deg);
+  -o-transform: rotate(-85deg);
+  -ms-transform: rotate(-85deg);
   transform: rotate(-85deg);
   width: 15px;
   top: 227px;
-  left: 260px; }
+  left: 254px; }
 
 .name-n1 {
   position: absolute;
@@ -256,19 +317,29 @@ body {
   transform: rotate(45deg) skew(60deg, 0deg);
   background: #0360b0;
   top: 230px;
-  left: 270px; }
+  left: 265px; }
 
 .name-n2 {
   position: absolute;
   border-top: 10px solid #0360b0;
   border-left: 0px solid transparent;
   border-right: 10px solid transparent;
+  -moz-transform: rotate(95deg);
+  -webkit-transform: rotate(95deg);
+  -o-transform: rotate(95deg);
+  -ms-transform: rotate(95deg);
   transform: rotate(95deg);
   width: 32px;
   top: 230px;
-  left: 279px; }
+  left: 274px; }
 
 .name-r {
+  -moz-transform: rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  transform: rotate(-5deg);
   transform: rotate(-5deg);
   position: absolute;
   top: 265px;
@@ -279,6 +350,10 @@ body {
   height: 10px;
   border-top: solid 10px #0360b0;
   border-right: solid 10px #0360b0;
+  -moz-transform: rotate(-88deg);
+  -webkit-transform: rotate(-88deg);
+  -o-transform: rotate(-88deg);
+  -ms-transform: rotate(-88deg);
   transform: rotate(-88deg);
   top: 275px;
   left: 112px; }
@@ -318,6 +393,10 @@ body {
   top: 265px;
   left: 200px;
   border-top: 45px solid #0360b0;
+  -moz-transform: rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
   transform: rotate(-5deg); }
 
 .name-b31 {
@@ -353,6 +432,10 @@ body {
   border-top: 10px solid #0360b0;
   border-left: 0px solid transparent;
   border-right: 20px solid transparent;
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
   width: 15px;
   top: 284px;
@@ -376,6 +459,12 @@ body {
   border-top: 10px solid #0360b0;
   border-left: 0px solid transparent;
   border-right: 10px solid transparent;
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  transform: rotate(90deg);
   transform: rotate(90deg);
   width: 32px;
   top: 286px;
@@ -388,6 +477,12 @@ body {
   border-right: solid 10px #0360b0;
   border-radius: 500%/10px 200px 10px 0px;
   position: absolute;
+  -moz-transform: rotate(80deg);
+  -webkit-transform: rotate(80deg);
+  -o-transform: rotate(80deg);
+  -ms-transform: rotate(80deg);
+  transform: rotate(80deg);
+  transform: rotate(80deg);
   transform: rotate(80deg);
   top: 288px;
   left: 288px; }
@@ -399,6 +494,12 @@ body {
   border-right: solid 10px #0360b0;
   border-radius: 500%/10px 200px 10px 0px;
   position: absolute;
+  -moz-transform: rotate(-100deg);
+  -webkit-transform: rotate(-100deg);
+  -o-transform: rotate(-100deg);
+  -ms-transform: rotate(-100deg);
+  transform: rotate(-100deg);
+  transform: rotate(-100deg);
   transform: rotate(-100deg);
   top: 270px;
   left: 293px; }
