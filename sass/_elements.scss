@@ -481,12 +481,6 @@ body{
     left: 265px;
 }
 .name-s2{
-    width: 20px;
-    height: 8px;
-    border-top: solid 10px $blue-color;
-    border-right: solid 10px $blue-color;
-    border-radius: 500%/10px 200px 10px 0px;
-    position: absolute; 
     -moz-transform: rotate(80deg);
     -webkit-transform: rotate(80deg);
     -o-transform: rotate(80deg);
@@ -497,13 +491,7 @@ body{
     top: 288px;
     left: 288px;
 }
-.name-s21{
-    width: 20px;
-    height: 8px;
-    border-top: solid 10px $blue-color;
-    border-right: solid 10px $blue-color;
-    border-radius: 500%/10px 200px 10px 0px;
-    position: absolute; 
+.name-s21{   
     -moz-transform: rotate(-100deg);
     -webkit-transform: rotate(-100deg);
     -o-transform: rotate(-100deg);
